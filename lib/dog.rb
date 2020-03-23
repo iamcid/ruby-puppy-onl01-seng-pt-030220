@@ -21,5 +21,4 @@ class Dog
       puts puppy.name
     end
   end
-  save
 end
